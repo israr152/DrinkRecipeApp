@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DrinkRecipeApp</string>
+    <string name="title_home">Drinks Recipes</string>
+    <string name="title_favorite">Favorite Recipes</string>
+
+    <string name="navigation_home">Home</string>
+    <string name="navigation_favorite">Favorites</string>
+    <string name="alcohol">Alcohol</string>
+    <string name="by_name">By Name</string>
+    <string name="by_alphabet">By Alphabet</string>
+    <string name="type_to_search">type to search</string>
+</resources>
